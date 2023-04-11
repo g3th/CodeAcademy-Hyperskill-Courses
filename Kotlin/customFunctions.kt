@@ -4,7 +4,7 @@ fun getListOfNumbers() : List<Int>{
     var flag = false
 
     while (counter < 7){
-        println("Enter 7 different numbers (${counter+1}/7) ")
+        println("Enter 7 different numbers (${counter+1}/7) : ")
         val userNum = readln().toInt()
         myList.forEach{
             if(it == userNum){
