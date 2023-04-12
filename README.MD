@@ -22,5 +22,10 @@ Writing custom functions to return minimum, maximum, average and checking if a v
 
 ### happyNewYear
 
-Recursion. 
+Recursion.
+
+### calculator
+
+Kotlin calculator with user input, which includes 4 basic operations plus a custom powers function, instead of using Math library.
+
 
