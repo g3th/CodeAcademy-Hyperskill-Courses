@@ -55,7 +55,7 @@ fun main(){
 		"-" -> println("${texasInstruments.subtract(splitDigits[0], splitDigits[1])}")
 		"/" -> println("${texasInstruments.divide(splitDigits[0], splitDigits[1])}")
 		"*" -> println("${texasInstruments.multiply(splitDigits[0], splitDigits[1])}")
-		"^"	-> println("${texasInstruments.power(splitDigits[0], splitDigits[1])}")
+		"^" -> println("${texasInstruments.power(splitDigits[0], splitDigits[1])}")
 	}
   
 }
