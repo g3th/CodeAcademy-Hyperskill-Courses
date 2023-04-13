@@ -28,4 +28,7 @@ Recursion.
 
 Kotlin calculator with user input, which includes 4 basic operations plus a custom powers function, instead of using Math library.
 
+### whichday
+
+Enter a day of the week then enter a number, and find out which day it will be in (n) days passed.
 
