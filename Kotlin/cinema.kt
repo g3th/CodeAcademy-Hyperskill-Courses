@@ -54,7 +54,6 @@ fun main() {
             total = (10 * rows / 2 * seats) + (8 * rows / 2 * seats)
         } else {
             val splitOddRows: List<Int> = round(rows)
-            println(splitOddRows[0])
             total = (10 * splitOddRows[1] * seats) + (8 * splitOddRows[0] * seats)
 
         }
