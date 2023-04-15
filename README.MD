@@ -4,35 +4,35 @@
 
 ## Kotlin
 
-### Chimps
+### Chimps (CodeAcademy)
 
 Problem to understand Kotlin collections like lists, sets and maps.
 
 Will take user input and use various methods to change/delete/insert values into various types of containers.
 
-### squareAnTriangle
+### squareAnTriangle (CodeAcademy)
 
 Understanding Loops, and using for and while to draw grids, squares and triangle shapes with characters.
 
-### customFunctions
+### customFunctions (CodeAcademy)
 
 Learning how to use functions in Kotlin, including lambdas and anonymous functions.
 
 Writing custom functions to return minimum, maximum, average and checking if a value exists in a container.
 
-### happyNewYear
+### happyNewYear (CodeAcademy)
 
 Recursion.
 
-### calculator
+### calculator (CodeAcademy)
 
 Kotlin calculator with user input, which includes 4 basic operations plus a custom powers function, instead of using Math library.
 
-### whichday
+### whichday (Hyperskill)
 
 Enter a day of the week then enter a number, and find out which day it will be in (n) days passed.
 
-### Cinema
+### Cinema (Hyperskill)
 
 First, it prints cinema rows and seats in a square grid.
 
