@@ -44,3 +44,7 @@ In a larger room, the tickets are 10 dollars for the front half of the rows and 
 Calculate the profit from the sold tickets depending on the number of seats and print the result as shown in the examples below. After that, your program should stop. Note that in this project, the number of rows and seats won't be greater than 9.
 
 This results in a program which is complete cancer.
+
+### divideby4
+
+Return largest number divisible by four in a list of Integers, without using the max() function.
