@@ -45,6 +45,6 @@ Calculate the profit from the sold tickets depending on the number of seats and 
 
 This results in a program which is complete cancer.
 
-### divideby4
+### divideby4 (Hyperskill)
 
 Return largest number divisible by four in a list of Integers, without using the max() function.
