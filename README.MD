@@ -1,6 +1,6 @@
-# Codebase Courses Excercises
+# Codebase/Hyperskill Courses Excercises
 
-## Code Problems Used to Complete Codebase Courses
+## Code Problems Used to Complete Codebase/Hyperskill Courses
 
 ## Kotlin
 
