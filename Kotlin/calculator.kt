@@ -28,6 +28,11 @@ class Calculator(val name: String){
     print("${num1} to the power of ${num2} = ")
     var counter = 1
     var result = num1
+    
+    if (num2 == 0){
+        return 1
+    }
+    
     while (counter < num2){
       result = result * num1
       counter += 1
