@@ -48,3 +48,9 @@ This results in a program which is complete cancer.
 ### divideby4 (Hyperskill)
 
 Return largest number divisible by four in a list of Integers, without using the max() function.
+
+### rightRotation
+
+Input a list of [n] numbers, and a [n] which indicates the number of positions which it will rotate by. I.e.
+
+A list of 5 numbers (1,2,3,4,5), rotate it by 2 (4,5,1,2,3)
