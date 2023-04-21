@@ -58,3 +58,7 @@ A list of 5 numbers (1,2,3,4,5), rotate it by 2 (4,5,1,2,3)
 ### indexOfFirsMax
 
 Reads a list of integers and finds the index of the first maximum in the list
+
+### numbersInARow
+
+Reads a list of integers and two numbers: n1 and n2. The program is to check that n1 and n2 never occur next to each other (also in reverse order) in the list.
