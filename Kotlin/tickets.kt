@@ -1,23 +1,23 @@
 package cinema
 
-fun printCinemaRoom(rows: Int, seats: Int, chosenRow: Int, chosenSeat: Int){
+fun printCinemaRoom(rows: Int, seats: Int, chosenRow: Int, chosenSeat: Int) {
     println("\nCinema:")
-    for (i in 0..seats){
+    for (i in 0..seats) {
         if (i < 1){
             print ("  ")
         }
-        else if (i == seats){
+        else if (i == seats) {
             print ("$i")
         }
         else {
             print ("$i ")
         }
     }
-    for (i in 1..rows){
+    for (i in 1..rows) {
         print("\n${i} ")
-        for (j in 1..seats){
+        for (j in 1..seats) {
             if (chosenSeat + chosenRow > 0){
-                if (i == chosenRow && j == chosenSeat){
+                if (i == chosenRow && j == chosenSeat) {
                     print("B ")
                     continue
                 }
@@ -53,20 +53,20 @@ fun main() {
     println("Enter a seat number in that row:")
     val chosenSeat = readln().toInt()
 
-    if (rows * seats <= 60){
+    if (rows * seats <= 60) {
         price = 10
     } else {
         if (rows % 2 == 0) {
-            if( chosenRow < rows / 2 ){
+            if( chosenRow < rows / 2 ) {
                 price = 10
             } else {
                 price = 8
             }
         } else {
             val splitOddRows: List<Int> = round(rows)
-            if (chosenRow < splitOddRows[0]){
+            if (chosenRow < splitOddRows[0]) {
                 price = 10
-            } else if (chosenRow >= splitOddRows[0]){
+            } else if (chosenRow >= splitOddRows[0]) {
                 price = 8
             }
         }
