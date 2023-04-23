@@ -69,4 +69,4 @@ Variation on the cinema project. Prints out cinema hall, allows user to pick a r
 
 ## cinemaMenu
 
-Same cinema cancer, but adds a menu that will allow options to buy tickets and display the current state of the seating arrangement. Draws hall with list of lists, and retains the state of the seats.
+Same cinema script, but adds a menu that will allow options to buy tickets and display the current state of the seating arrangement. Draws hall with list of lists, and retains the state of the seats.
