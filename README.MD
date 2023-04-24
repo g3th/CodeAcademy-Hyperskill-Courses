@@ -68,7 +68,7 @@ Reads a list of integers and two numbers: n1 and n2. The program is to check tha
 Variation on the cinema project. Prints out cinema hall, allows user to pick a row and seat, and prints out the ticket price for row + seat picked, together with a printout of the location of row + seat in the entire Cinema hall (marked by 'B' instead of 'S').
 
 ## cinemaMenu
-Same script, but adds a menu that will allow options to buy tickets and display the current state of the seating arrangement. Draws hall with list of lists, and retains the state of the seats.
+Same cinema script, but adds a menu that will allow options to buy tickets and display the current state of the seating arrangement. Draws hall with list of lists, and retains the state of the seats.
 
 ## cinemaCompleted
 
