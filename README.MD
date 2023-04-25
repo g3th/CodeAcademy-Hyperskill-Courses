@@ -86,3 +86,6 @@ The total income that shows how much money the theatre will get if all the ticke
 The rest of the menu items should work the same way as before, except the item Buy a ticket shouldn't allow a user to buy a ticket that has already been purchased.
 
 If a user chooses an already taken seat, print That ticket has already been purchased! and ask them to enter different seat coordinates until they pick an available seat. Of course, you shouldn't allow coordinates that are out of bounds. If this happens, print Wrong input! and ask to enter different seat coordinates until the user picks an available seat. 
+
+# pieceOfAlphabet
+Reads a string and output true only when the letters of this string form a substring of the ordered English alphabet, for example, "abc", "xy", "pqrst".
