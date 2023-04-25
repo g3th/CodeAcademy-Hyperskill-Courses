@@ -63,14 +63,14 @@ Reads a list of integers and finds the index of the first maximum in the list
 
 Reads a list of integers and two numbers: n1 and n2. The program is to check that n1 and n2 never occur next to each other (also in reverse order) in the list.
 
-## tickets
+### tickets
 
 Variation on the cinema project. Prints out cinema hall, allows user to pick a row and seat, and prints out the ticket price for row + seat picked, together with a printout of the location of row + seat in the entire Cinema hall (marked by 'B' instead of 'S').
 
-## cinemaMenu
+### cinemaMenu
 Same cinema script, but adds a menu that will allow options to buy tickets and display the current state of the seating arrangement. Draws hall with list of lists, and retains the state of the seats.
 
-## cinemaCompleted
+### cinemaCompleted
 
 Completed "Cinema Room Manager" project, part of "Kotlin Core" course.
 
@@ -87,8 +87,8 @@ The rest of the menu items should work the same way as before, except the item B
 
 If a user chooses an already taken seat, print That ticket has already been purchased! and ask them to enter different seat coordinates until they pick an available seat. Of course, you shouldn't allow coordinates that are out of bounds. If this happens, print Wrong input! and ask to enter different seat coordinates until the user picks an available seat. 
 
-# pieceOfAlphabet
+### pieceOfAlphabet
 Reads a string and output true only when the letters of this string form a substring of the ordered English alphabet, for example, "abc", "xy", "pqrst".
 
-#compressionAlgo
+##compressionAlgo
 Reads an input of chars. The string "aaaabbсaa" is converted into "a4b2с1a2", and so on.
