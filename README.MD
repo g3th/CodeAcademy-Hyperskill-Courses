@@ -89,3 +89,6 @@ If a user chooses an already taken seat, print That ticket has already been purc
 
 # pieceOfAlphabet
 Reads a string and output true only when the letters of this string form a substring of the ordered English alphabet, for example, "abc", "xy", "pqrst".
+
+#compressionAlgo
+Reads an input of chars. The string "aaaabbсaa" is converted into "a4b2с1a2", and so on.
