@@ -96,3 +96,14 @@ Reads an input of chars. The string "aaaabbсaa" is converted into "a4b2с1a2", 
 ## unique
 
 Write a program that reads a word and prints the number of characters that appear in it only once.
+
+##numberInASet
+
+Write a program that checks if a set of N numbers contains a number M.
+
+The first line contains the N number.
+The next N lines contain the set of numbers one number per line.
+
+The last line contains one integer number M.
+
+You need to output either YES or NO.
