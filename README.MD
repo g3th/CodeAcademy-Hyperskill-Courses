@@ -107,3 +107,7 @@ The next N lines contain the set of numbers one number per line.
 The last line contains one integer number M.
 
 You need to output either YES or NO.
+
+## gettingSubstrings
+
+All letters after last 'u' should be uppercase.
