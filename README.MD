@@ -111,3 +111,7 @@ You need to output either YES or NO.
 ## gettingSubstrings
 
 All letters after last 'u' should be uppercase.
+
+## charSequence
+
+Write a function that takes in a CharSequence and returns a new CharSequence with every other character of the original one removed.
