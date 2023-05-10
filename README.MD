@@ -92,3 +92,7 @@ Reads a string and output true only when the letters of this string form a subst
 
 ## compressionAlgo
 Reads an input of chars. The string "aaaabbсaa" is converted into "a4b2с1a2", and so on.
+
+## unique
+
+Write a program that reads a word and prints the number of characters that appear in it only once.
