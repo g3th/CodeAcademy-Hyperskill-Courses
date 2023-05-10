@@ -97,7 +97,7 @@ Reads an input of chars. The string "aaaabbсaa" is converted into "a4b2с1a2", 
 
 Write a program that reads a word and prints the number of characters that appear in it only once.
 
-##numberInASet
+## numberInASet
 
 Write a program that checks if a set of N numbers contains a number M.
 
