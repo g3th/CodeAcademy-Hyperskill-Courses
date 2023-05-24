@@ -115,3 +115,7 @@ All letters after last 'u' should be uppercase.
 ## charSequence
 
 Write a function that takes in a CharSequence and returns a new CharSequence with every other character of the original one removed.
+
+## compoundInterest
+
+A program that reads the name and the value of a new parameter, calculates the compound interest, and prints the final amount for this new parameter. Implements named arguments to solve this problem.
