@@ -119,3 +119,7 @@ Write a function that takes in a CharSequence and returns a new CharSequence wit
 ## compoundInterest
 
 A program that reads the name and the value of a new parameter, calculates the compound interest, and prints the final amount for this new parameter. Implements named arguments to solve this problem.
+
+## previousChar
+
+Input 4 chars, and it will print the previous Unicode char for each character inputted.
