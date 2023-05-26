@@ -123,3 +123,7 @@ A program that reads the name and the value of a new parameter, calculates the c
 ## previousChar
 
 Input 4 chars, and it will print the previous Unicode char for each character inputted.
+
+## weatherComparison
+
+Returns the coldest weather in three cities. How to use Property Accessors (getters and setters).
