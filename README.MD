@@ -127,3 +127,7 @@ Input 4 chars, and it will print the previous Unicode char for each character in
 ## weatherComparison
 
 Returns the coldest weather in three cities. How to use Property Accessors (getters and setters).
+
+## triples
+
+Returns number of triples when iterating through a number sequence.
