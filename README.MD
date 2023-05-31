@@ -4,35 +4,35 @@
 
 ## Kotlin
 
-### Chimps (CodeAcademy)
+## Chimps (CodeAcademy)
 
 Problem to understand Kotlin collections like lists, sets and maps.
 
 Will take user input and use various methods to change/delete/insert values into various types of containers.
 
-### squareAnTriangle (CodeAcademy)
+## squareAnTriangle (CodeAcademy)
 
 Understanding Loops, and using for and while to draw grids, squares and triangle shapes with characters.
 
-### customFunctions (CodeAcademy)
+## customFunctions (CodeAcademy)
 
 Learning how to use functions in Kotlin, including lambdas and anonymous functions.
 
 Writing custom functions to return minimum, maximum, average and checking if a value exists in a container.
 
-### happyNewYear (CodeAcademy)
+## happyNewYear (CodeAcademy)
 
 Recursion.
 
-### calculator (CodeAcademy)
+## calculator (CodeAcademy)
 
 Kotlin calculator with user input, which includes 4 basic operations plus a custom powers function, instead of using Math library.
 
-### whichday (Hyperskill)
+## whichday (Hyperskill)
 
 Enter a day of the week then enter a number, and find out which day it will be in (n) days passed.
 
-### Cinema (Hyperskill)
+## Cinema (Hyperskill)
 
 First, it prints cinema rows and seats in a square grid.
 
@@ -45,32 +45,32 @@ Calculate the profit from the sold tickets depending on the number of seats and 
 
 This results in a program which is complete cancer.
 
-### divideby4 (Hyperskill)
+## divideby4 (Hyperskill)
 
 Return largest number divisible by four in a list of Integers, without using the max() function.
 
-### rightRotation
+## rightRotation
 
 Input a list of [n] numbers, and a [n] which indicates the number of positions which it will rotate by. I.e.
 
 A list of 5 numbers (1,2,3,4,5), rotate it by 2 (4,5,1,2,3)
 
-### indexOfFirsMax
+## indexOfFirsMax
 
 Reads a list of integers and finds the index of the first maximum in the list
 
-### numbersInARow
+## numbersInARow
 
 Reads a list of integers and two numbers: n1 and n2. The program is to check that n1 and n2 never occur next to each other (also in reverse order) in the list.
 
-### tickets
+## tickets
 
 Variation on the cinema project. Prints out cinema hall, allows user to pick a row and seat, and prints out the ticket price for row + seat picked, together with a printout of the location of row + seat in the entire Cinema hall (marked by 'B' instead of 'S').
 
-### cinemaMenu
+## cinemaMenu
 Same cinema script, but adds a menu that will allow options to buy tickets and display the current state of the seating arrangement. Draws hall with list of lists, and retains the state of the seats.
 
-### cinemaCompleted
+## cinemaCompleted
 
 Completed "Cinema Room Manager" project, part of "Kotlin Core" course.
 
@@ -87,7 +87,7 @@ The rest of the menu items should work the same way as before, except the item B
 
 If a user chooses an already taken seat, print That ticket has already been purchased! and ask them to enter different seat coordinates until they pick an available seat. Of course, you shouldn't allow coordinates that are out of bounds. If this happens, print Wrong input! and ask to enter different seat coordinates until the user picks an available seat. 
 
-### pieceOfAlphabet
+## pieceOfAlphabet
 Reads a string and output true only when the letters of this string form a substring of the ordered English alphabet, for example, "abc", "xy", "pqrst".
 
 ## compressionAlgo
@@ -139,3 +139,7 @@ Write a program that reads a letter and prints all the preceding letters of the 
 ## numberOfTens
 
 Write a program that reads a number and prints the tens in that number. Use indexes to solve this problem!
+
+## countVowels
+
+Takes a CharSequence as input and returns the number of vowels.
