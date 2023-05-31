@@ -135,3 +135,7 @@ Returns number of triples when iterating through a number sequence.
 ## alphabetLetters
 
 Write a program that reads a letter and prints all the preceding letters of the English alphabet.
+
+## numberOfTens
+
+Write a program that reads a number and prints the tens in that number. Use indexes to solve this problem! (No, use mod instead.)
