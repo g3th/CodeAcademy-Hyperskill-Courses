@@ -131,3 +131,7 @@ Returns the coldest weather in three cities. How to use Property Accessors (gett
 ## triples
 
 Returns number of triples when iterating through a number sequence.
+
+## alphabetLetters
+
+Write a program that reads a letter and prints all the preceding letters of the English alphabet.
