@@ -143,3 +143,7 @@ Write a program that reads a number and prints the tens in that number. Use inde
 ## countVowels
 
 Takes a CharSequence as input and returns the number of vowels.
+
+## timeDifference
+
+We are going to consider two moments in time that happened on the same day — hours, minutes, and seconds. It is known that the second moment happened not earlier than the first one. Find how many seconds passed between the two moments.
