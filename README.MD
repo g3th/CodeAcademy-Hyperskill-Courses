@@ -147,3 +147,7 @@ Takes a CharSequence as input and returns the number of vowels.
 ## timeDifference
 
 We are going to consider two moments in time that happened on the same day — hours, minutes, and seconds. It is known that the second moment happened not earlier than the first one. Find how many seconds passed between the two moments.
+
+## dateTime
+
+The function isLeapYear(year: String): Boolean takes a year as a parameter and returns true if it is a leap year. Write the correct code for the isLeapYear() function. This is using the kotlinx.datetime library and will need to be imported into build.gradle.kts "dependencies."
