@@ -151,3 +151,7 @@ We are going to consider two moments in time that happened on the same day — h
 ## dateTime
 
 The function isLeapYear(year: String): Boolean takes a year as a parameter and returns true if it is a leap year. Write the correct code for the isLeapYear() function. This is using the kotlinx.datetime library and will need to be imported into build.gradle.kts "dependencies."
+
+## checkElements
+
+Reads a list of numbers, then takes an input of 2 numbers and check if those numbers are present in the first list. An example of using Kotlin's great collection functions/operations, like distinct and intersect.
