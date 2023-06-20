@@ -6,7 +6,7 @@ fun main() {
             v.add(i)
         }
     }
-    val angle = (v[0] * v[2] + v[1] * v[3]) / ( (sqrt(v[0].pow(2) + v[1].pow(2)) * sqrt(v[2].pow(2) + v[3].pow(2)) ) )
+    val angle = (v[0] * v[2] + v[1] * v[3]) / (sqrt(v[0].pow(2) + v[1].pow(2)) * sqrt(v[2].pow(2) + v[3].pow(2)))
     val answer = acos(angle) / PI * 180
     println(answer)
 }
