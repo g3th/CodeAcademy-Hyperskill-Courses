@@ -155,3 +155,7 @@ The function isLeapYear(year: String): Boolean takes a year as a parameter and r
 ## checkElements
 
 Reads a list of numbers, then takes an input of 2 numbers and check if those numbers are present in the first list. An example of using Kotlin's great collection functions/operations, like distinct and intersect.
+
+## angleBetweenVectors
+
+Calculate the angle between 4 given vectors, entered by the user in two separate inputs (i.e. 1 2 - 3 4), using the dot product formula.
