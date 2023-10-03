@@ -159,3 +159,7 @@ Reads a list of numbers, then takes an input of 2 numbers and check if those num
 ## angleBetweenVectors
 
 Calculate the angle between 4 given vectors, entered by the user in two separate inputs (i.e. 1 2 - 3 4), using the dot product formula.
+
+## getters_setters
+
+How to implement getters and setters in the Kotlin language.
