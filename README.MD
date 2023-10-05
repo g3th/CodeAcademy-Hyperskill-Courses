@@ -163,3 +163,7 @@ Calculate the angle between 4 given vectors, entered by the user in two separate
 ## getters_setters
 
 How to implement getters and setters in the Kotlin language.
+
+## if_expr
+
+Write a program that reads an integer number and checks if it is divisible by 2, 3, 5, or 6. (problem of the day)
